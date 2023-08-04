@@ -1,0 +1,2 @@
+I drop out dunst, because I dont use notifications
+I drop out slstatus, because the only thing I render in the statusbar is the date

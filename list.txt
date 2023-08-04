@@ -1,0 +1,33 @@
+X11/GUI PROGRAM
+    dwm (build)
+    alacritty (config)
+    dmenu
+    feh
+    mplayer
+    mupdf
+    firefox (+ vimium)
+    anki
+
+TUI PROGRAMS
+    nvim (config)
+    fzf
+
+OTHER FILES
+    ~/.config/mimeapps.list
+    ~/.local/share/applications/*
+    ~/.local/share/xsessions/*
+    ~/.dwm/autostart.sh
+
+FILES OUTSIDE HOME
+    [xorg config]
+
+BINARIES (~/.local/bin)
+    sent
+    mdanki
+
+OTHER PROGRAMS I MIGHT USE
+    vscode/code
+    nnn
+    sent (build ?)
+    slock (build ?)
+    gimp

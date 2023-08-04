@@ -1,0 +1,8 @@
+PROGRAMS
+    dwm
+    dmenu
+    slstatus
+    dunst
+    qutebrowser
+    lf
+    nvim
